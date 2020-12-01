@@ -1,0 +1,12 @@
+D:\learning\dotnet\Todo_1\Todo_1\bin\Debug\netcoreapp3.1\Todo_1.exe
+D:\learning\dotnet\Todo_1\Todo_1\bin\Debug\netcoreapp3.1\Todo_1.deps.json
+D:\learning\dotnet\Todo_1\Todo_1\bin\Debug\netcoreapp3.1\Todo_1.runtimeconfig.json
+D:\learning\dotnet\Todo_1\Todo_1\bin\Debug\netcoreapp3.1\Todo_1.runtimeconfig.dev.json
+D:\learning\dotnet\Todo_1\Todo_1\bin\Debug\netcoreapp3.1\Todo_1.dll
+D:\learning\dotnet\Todo_1\Todo_1\bin\Debug\netcoreapp3.1\Todo_1.pdb
+D:\learning\dotnet\Todo_1\Todo_1\obj\Debug\netcoreapp3.1\Todo_1.AssemblyInfoInputs.cache
+D:\learning\dotnet\Todo_1\Todo_1\obj\Debug\netcoreapp3.1\Todo_1.AssemblyInfo.cs
+D:\learning\dotnet\Todo_1\Todo_1\obj\Debug\netcoreapp3.1\Todo_1.csproj.CoreCompileInputs.cache
+D:\learning\dotnet\Todo_1\Todo_1\obj\Debug\netcoreapp3.1\Todo_1.dll
+D:\learning\dotnet\Todo_1\Todo_1\obj\Debug\netcoreapp3.1\Todo_1.pdb
+D:\learning\dotnet\Todo_1\Todo_1\obj\Debug\netcoreapp3.1\Todo_1.genruntimeconfig.cache
